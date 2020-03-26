@@ -1,3 +1,9 @@
+Part1  
+nsloopup www.whu.edu.cn  
+操作后结果如下图  
+![image](https://github.com/20192021855-DCAN/HOMEWORK-4/blob/master/201730111061/images/nslookup.jpg)  
+Part2  
+课后习题部分  
 P7、获取IP地址的总时间为RTT_1+RTT_2+...+RTT_n
 一旦知道IP地址，RTT_O就会经过以建立TCP连接，而另一个RTT_O则会经过以请求和接收小对象。总响应时间为2+RTT_O+RTT_1+RTT_2+...+RTT_n
 P8、
