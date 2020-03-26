@@ -1,7 +1,6 @@
 Part1  
 nsloopup www.whu.edu.cn  
-操作后结果如下图  
-![image](https://github.com/20192021855-DCAN/HOMEWORK-3/blob/master/2017301110061/telnet邮箱.png)
+操作后结果如下图![image](https://github.com/20192021855-DCAN/HOMEWORK-4/blob/master/201730111061/images/nslookup.jpg)
 Part2  
 课后习题部分  
 P7、获取IP地址的总时间为RTT_1+RTT_2+...+RTT_n
