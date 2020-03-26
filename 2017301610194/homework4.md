@@ -14,6 +14,7 @@ MAIL FROM 是 SMTP 握手协议的一部分，而 From 是邮件报文的一部�
 ## 习题14
 
 ![avatar](./resource/P14.png)
+
 SMTP 使用仅包含一个句号的一行来标志报文体结束，HTTP 使用 Content-Length 标志。
 不能，因为报文内容可能含有句号。
 
