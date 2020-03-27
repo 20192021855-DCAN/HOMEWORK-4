@@ -2,13 +2,13 @@
 
 + nslookup www.whu.edu.cn
 
-  ![](nslookup.png)
+  ![](asset/nslookup.png)
 
 + 第二章任选3三道题目
 
   + P7:
 
-    ![](P7.png)
+    ![](asset/P7.png)
 
     获取IP地址的总时间为$ RTT_1+RTT_2+...+RTT_n $
 
@@ -16,7 +16,7 @@
 
   + P8:
 
-    ![](P8.png)
+    ![](asset/P8.png)
 
     a)$RTT_1+RTT_2+...+RTT_n+2RTT_O+8*2RTT_O=18RTT_O+RTT_1+...+RTT_n$
 
@@ -30,7 +30,7 @@
 
   + P26
 
-    ![](P26.png)
+    ![](asset/P26.png)
 
     a)是可能的，只要洪流中有足够的对等端，且等待时间足够长，Bob可以以乐观非阻塞的方式接收完整文件。
 
